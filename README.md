@@ -71,7 +71,7 @@ This repository uses GitHub Actions for Continuous Integration (CI) to automatic
 
 ## Setup Instructions
 1. Clone the Repository:
-   sh git clone https://github.com/YourUsername/OOPJ-Assignment.git
+   sh git clone https://github.com/Manvitha-CS067/OOPJ-Assignment.git
     
 2. Navigate to the Project Directory:
     sh cd OOPJ-Assignment
