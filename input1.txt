@@ -1,0 +1,100 @@
+R001|4MW23CS067|Leaking faucet|Arjun Sharma|Pending|NA|11-11-2024|22-11-2024  
+R002|4MW23EC045|Broken chair|Ananya Iyer|In Progress|Maintenance|18-11-2024|20-11-2024  
+R003|4MW23ME033|Faulty projector|Rohan Verma|Closed|Technician A|19-11-2024|21-11-2024  
+R004|4MW23CS046|Flickering light|Priya Mehta|Pending|NA|13-11-2024|22-11-2024  
+R005|4MW23EC067|Broken window|Kavya Nair|In Progress|Maintenance Team|15-11-2024|16-11-2024  
+R006|4MW23ME022|Noisy AC|Aditya Rao|Pending|NA|16-11-2024|18-11-2024  
+R007|4MW23CS019|Clogged sink|Ishaan Patel|Closed|Technician B|25-11-2024|29-11-2024  
+R008|4MW23EC048|Loose cable|Sneha Desai|In Progress|Technician C|18-11-2024|29-11-2024  
+R009|4MW23ME056|Burnt-out bulb|Vikram Singh|Pending|NA|22-11-2024|27-11-2024  
+R010|4MW23CS034|Leaking roof|Nisha Gupta|Closed|Technician D|10-11-2024|22-11-2024  
+R011|4MW23CS078|Cracked monitor|Rahul Joshi|Pending|NA|14-11-2024|18-11-2024  
+R012|4MW23EC024|Faulty fan|Meera Kapoor|Closed|Technician B|13-11-2024|21-11-2024  
+R013|4MW23ME042|Water seepage|Kabir Choudhary|In Progress|Maintenance Team|20-11-2024|26-11-2024  
+R014|4MW23CS059|Loose tiles|Riddhi Shah|Pending|NA|17-11-2024|20-11-2024  
+R015|4MW23EC067|Faulty keyboard|Lakshmi Menon|Closed|Technician C|12-11-2024|15-11-2024  
+R016|4MW23ME021|Broken hinge|Aryan Shetty|In Progress|Maintenance|14-11-2024|18-11-2024  
+R017|4MW23CS092|Damaged table|Diya Pillai|Pending|NA|10-11-2024|14-11-2024  
+R018|4MW23EC038|Jammed drawer|Aarav Das|Closed|Technician A|15-11-2024|22-11-2024  
+R019|4MW23ME053|Faint buzzing noise|Aditi Reddy|In Progress|Technician D|19-11-2024|28-11-2024  
+R020|4MW23CS065|Screen glitch|Tanya Roy|Pending|NA|22-11-2024|26-11-2024  
+R021|4MW23CS045|Slow internet|Aakash Jain|In Progress|Technician C|12-11-2024|16-11-2024  
+R022|4MW23EC031|Broken socket|Avni Narang|Pending|NA|14-11-2024|20-11-2024  
+R023|4MW23ME019|Noisy fan|Ira Bhatt|Closed|Technician A|18-11-2024|21-11-2024  
+R024|4MW23CS011|Overheating system|Dev Sharma|In Progress|Maintenance|10-11-2024|15-11-2024  
+R025|4MW23EC057|Faulty switch|Maya Goyal|Pending|NA|13-11-2024|16-11-2024  
+R026|4MW23ME029|Cracked screen|Siddharth Malhotra|Closed|Technician D|15-11-2024|23-11-2024  
+R027|4MW23CS082|Water leakage|Esha Kulkarni|In Progress|Maintenance Team|17-11-2024|27-11-2024  
+R028|4MW23EC040|Loose railing|Nikita Bansal|Pending|NA|19-11-2024|23-11-2024  
+R029|4MW23ME014|Damaged flooring|Arvind Krishna|Closed|Technician C|12-11-2024|18-11-2024  
+R030|4MW23CS075|Blurry projector|Vani Acharya|In Progress|Technician B|14-11-2024|18-11-2024
+R031|4MW23CS062|Power outage|Kiran Kapoor|Pending|NA|20-11-2024|23-11-2024  
+R032|4MW23EC055|Loose door handle|Nikhil Patel|In Progress|Maintenance Team|16-11-2024|19-11-2024  
+R033|4MW23ME027|Cold heater|Sanya Gupta|Closed|Technician A|17-11-2024|20-11-2024  
+R034|4MW23CS089|Unstable Wi-Fi|Aravind Rao|Pending|NA|22-11-2024|25-11-2024  
+R035|4MW23EC064|Clogged drain|Kavita Sharma|In Progress|Maintenance|18-11-2024|21-11-2024  
+R036|4MW23ME038|Leaking faucet|Shreya Joshi|Closed|Technician C|21-11-2024|23-11-2024  
+R037|4MW23CS066|Damp carpet|Vishal Kumar|Pending|NA|19-11-2024|22-11-2024  
+R038|4MW23EC066|Overheating laptop|Manish Nair|In Progress|Technician A|16-11-2024|19-11-2024  
+R039|4MW23ME055|Frozen screen|Tanuja Verma|Pending|NA|20-11-2024|24-11-2024  
+R040|4MW23CS054|Stuck door|Aman Singh|In Progress|Technician D|17-11-2024|21-11-2024  
+R041|4MW23EC036|Broken chair|Anjali Desai|Closed|Technician B|18-11-2024|21-11-2024  
+R042|4MW23ME026|Overloaded socket|Karthik Iyer|Pending|NA|20-11-2024|22-11-2024  
+R043|4MW23CS063|Cracked window|Neha Reddy|In Progress|Maintenance Team|19-11-2024|21-11-2024  
+R044|4MW23EC026|Loose screws|Ravi Kumar|Pending|NA|20-11-2024|23-11-2024  
+R045|4MW23ME030|Vibrating fan|Simran Sethi|Closed|Technician C|22-11-2024|25-11-2024  
+R046|4MW23CS074|Broken glass|Tushar Malhotra|In Progress|Technician A|14-11-2024|18-11-2024  
+R047|4MW23EC052|Damaged wiring|Vasundhara Iyer|Pending|NA|21-11-2024|24-11-2024  
+R048|4MW23ME050|Noisy pipes|Ajay Yadav|In Progress|Technician D|18-11-2024|22-11-2024  
+R049|4MW23CS070|Faulty light switch|Shubham Gupta|Closed|Technician B|19-11-2024|22-11-2024  
+R050|4MW23EC071|Jammed window|Rupal Jain|Pending|NA|22-11-2024|25-11-2024  
+R051|4MW23ME047|Slow water drainage|Veer Rajput|In Progress|Maintenance|15-11-2024|19-11-2024  
+R052|4MW23CS072|Loose cabinet door|Bhavya Malhotra|Pending|NA|18-11-2024|21-11-2024  
+R053|4MW23EC053|Rusted pipe|Pradeep Kumar|In Progress|Technician A|16-11-2024|19-11-2024  
+R054|4MW23ME014|Noisy ventilation|Ravi Shankar|Closed|Technician C|15-11-2024|20-11-2024  
+R055|4MW23CS023|Unstable chair|Akhil Reddy|Pending|NA|19-11-2024|22-11-2024  
+R056|4MW23EC042|Faulty microwave|Sonal Mehta|In Progress|Technician D|18-11-2024|21-11-2024  
+R057|4MW23ME021|Worn-out carpet|Jasmin Verma|Closed|Technician B|14-11-2024|17-11-2024  
+R058|4MW23CS040|Leaky window|Aarav Singh|Pending|NA|18-11-2024|22-11-2024  
+R059|4MW23EC049|Unresponsive keyboard|Geeta Agarwal|In Progress|Technician A|19-11-2024|22-11-2024  
+R060|4MW23ME048|Water leak in ceiling|Rajesh Reddy|Pending|NA|17-11-2024|20-11-2024  
+R061|4MW23CS083|Stuck window|Kriti Sharma|Closed|Technician B|20-11-2024|22-11-2024  
+R062|4MW23EC037|Broken shelf|Vidya Iyer|Pending|NA|19-11-2024|22-11-2024  
+R063|4MW23ME015|Faulty circuit|Devika Joshi|In Progress|Technician C|22-11-2024|25-11-2024  
+R064|4MW23CS050|Broken lock|Siddhi Verma|Pending|NA|21-11-2024|23-11-2024  
+R065|4MW23EC061|Cracked mirror|Shivani Kapoor|Closed|Technician D|17-11-2024|19-11-2024  
+R066|4MW23ME044|Damaged sink|Rohit Agarwal|In Progress|Maintenance Team|18-11-2024|21-11-2024  
+R067|4MW23CS057|Worn-out chair cushion|Meenal Reddy|Pending|NA|20-11-2024|22-11-2024  
+R068|4MW23EC020|Faulty camera|Tanvi Malhotra|Closed|Technician A|21-11-2024|24-11-2024  
+R069|4MW23ME017|Broken speaker|Prashant Nair|In Progress|Technician B|16-11-2024|19-11-2024  
+R070|4MW23CS030|Rusted gate|Sahil Gupta|Pending|NA|19-11-2024|22-11-2024  
+R071|4MW23EC062|Broken water dispenser|Aditi Shetty|In Progress|Technician D|20-11-2024|23-11-2024  
+R072|4MW23ME029|Leaking toilet|Rajendra Patel|Pending|NA|22-11-2024|25-11-2024  
+R073|4MW23CS016|Noisy air conditioner|Tanya Sharma|Closed|Technician C|20-11-2024|22-11-2024  
+R074|4MW23EC051|Flickering fan|Ishita Singh|Pending|NA|21-11-2024|24-11-2024  
+R075|4MW23ME045|Stuck drawer|Pranav Kapoor|In Progress|Maintenance|14-11-2024|17-11-2024  
+R076|4MW23CS009|Broken hinge|Sakshi Mehta|Pending|NA|20-11-2024|22-11-2024  
+R077|4MW23EC059|Leaking refrigerator|Anshika Jain|Closed|Technician A|16-11-2024|20-11-2024  
+R078|4MW23ME051|Damaged carpet edges|Rohan Nair|In Progress|Technician B|18-11-2024|21-11-2024  
+R079|4MW23CS021|Loose door frame|Neelam Choudhary|Pending|NA|20-11-2024|23-11-2024  
+R080|4MW23EC063|Broken toilet seat|Sandeep Kaur|In Progress|Technician D|22-11-2024|25-11-2024  
+R081|4MW23ME023|Flickering lights|Sreeja Joshi|Closed|Technician C|18-11-2024|22-11-2024  
+R082|4MW23CS073|Noisy ventilation fan|Pooja Verma|Pending|NA|22-11-2024|25-11-2024  
+R083|4MW23EC043|Cracked tile|Vikram Sharma|In Progress|Maintenance Team|14-11-2024|17-11-2024  
+R084|4MW23ME031|Noisy refrigerator|Rajat Singh|Closed|Technician B|22-11-2024|25-11-2024
+R085|4MW23CS068|Faulty thermostat|Simran Choudhary|Pending|NA|20-11-2024|23-11-2024  
+R086|4MW23EC074|Stuck garage door|Arvind Rao|In Progress|Technician A|19-11-2024|22-11-2024  
+R087|4MW23ME058|Unresponsive printer|Madhuri Reddy|Pending|NA|22-11-2024|25-11-2024  
+R088|4MW23CS035|Broken curtain rod|Kiran Shah|Closed|Technician B|18-11-2024|21-11-2024  
+R089|4MW23EC024|Overheating laptop charger|Anjali Gupta|In Progress|Technician D|21-11-2024|24-11-2024  
+R090|4MW23ME061|Worn-out showerhead|Ashwin Kumar|Pending|NA|20-11-2024|23-11-2024  
+R091|4MW23CS069|Leaking sink|Nikhil Yadav|Closed|Maintenance|17-11-2024|20-11-2024  
+R092|4MW23EC078|Broken dishwasher|Rekha Patel|Pending|NA|18-11-2024|21-11-2024  
+R093|4MW23ME064|Faulty microwave timer|Vinay Reddy|In Progress|Technician C|15-11-2024|18-11-2024  
+R094|4MW23CS039|Stuck faucet|Meenal Verma|Pending|NA|19-11-2024|22-11-2024  
+R095|4MW23EC039|Cracked phone screen|Shalini Nair|Closed|Technician B|16-11-2024|19-11-2024  
+R096|4MW23ME066|Unstable ceiling fan|Naveen Gupta|Pending|NA|21-11-2024|24-11-2024  
+R097|4MW23CS046|Jammed lock|Maya Patel|In Progress|Technician D|18-11-2024|21-11-2024  
+R098|4MW23EC068|Broken oven door|Preeti Desai|Pending|NA|22-11-2024|25-11-2024  
+R099|4MW23ME052|Leaky roof|Hina Singh|In Progress|Maintenance|14-11-2024|17-11-2024  
+R100|4MW23CS067|Malfunctioning doorbell|Ravi Prakash|Pending|NA|21-11-2024|24-11-2024
